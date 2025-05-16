@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Racket, and General programming!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am working on a grilled cheese repo!
 
 <!---
